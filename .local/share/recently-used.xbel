@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/georgina/Downloads/A%20New%20York%20Lifestyle%20_%20HD%20photo%20by%20Chris%20Murray%20(@seemurray)%20on%20Unsplash.html" added="2019-07-08T15:16:33Z" modified="2019-07-08T15:16:33Z" visited="2019-07-08T15:16:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser-v7" exec="&apos;chromium-browser-v7 %u&apos;" modified="2019-07-08T15:16:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/georgina/Desktop/Gina" added="2019-07-09T16:02:08Z" modified="2019-07-09T16:02:08Z" visited="2019-07-09T16:02:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thonny" exec="&apos;Thonny %u&apos;" modified="2019-07-09T16:02:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/georgina/Gina%201" added="2019-07-10T09:30:29Z" modified="2019-07-10T09:30:29Z" visited="2019-07-10T09:30:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thonny" exec="&apos;Thonny %u&apos;" modified="2019-07-10T09:30:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/georgina/date%20and%20time" added="2019-07-10T10:23:11Z" modified="2019-07-10T10:23:11Z" visited="2019-07-10T10:23:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thonny" exec="&apos;Thonny %u&apos;" modified="2019-07-10T10:23:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/georgina/Splitting%20a%20sentence" added="2019-07-10T10:45:02Z" modified="2019-07-10T10:45:02Z" visited="2019-07-10T10:45:02.385130Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thonny" exec="&apos;Thonny %u&apos;" modified="2019-07-10T10:45:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

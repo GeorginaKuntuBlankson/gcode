@@ -1,0 +1,75 @@
+{
+   "checksum": "c0a38e6b5c13c185c4a39d8f36ae35c7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13207071913734817",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13207231954130837"
+            },
+            "name": "Home · glblcd/material Wiki · GitHub",
+            "type": "url",
+            "url": "https://github.com/glblcd/material/wiki"
+         }, {
+            "date_added": "13207141766964420",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13207153178535213"
+            },
+            "name": "Introduction to Linux: Labs · glblcd/material Wiki · GitHub",
+            "type": "url",
+            "url": "https://github.com/glblcd/material/wiki/Introduction-to-Linux%3A-Labs"
+         }, {
+            "date_added": "13207154573616561",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13207228858289687"
+            },
+            "name": "Intro to Python: Labs · glblcd/material Wiki · GitHub",
+            "type": "url",
+            "url": "https://github.com/glblcd/material/wiki/Intro-to-Python%3A-Labs"
+         }, {
+            "date_added": "13207155768397290",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13207155768400909"
+            },
+            "name": "GitPitch Slide Deck",
+            "type": "url",
+            "url": "https://gitpitch.com/glblcd/material?p=intro-to-python#/"
+         }, {
+            "date_added": "13207231938517343",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13207231938522047"
+            },
+            "name": "Intro to git and GitHub: Labs · glblcd/material Wiki · GitHub",
+            "type": "url",
+            "url": "https://github.com/glblcd/material/wiki/Intro-to-git-and-GitHub%3A-Labs#2"
+         } ],
+         "date_added": "13207071861898270",
+         "date_modified": "13207231938517343",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13207071861898308",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13207071861898321",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
